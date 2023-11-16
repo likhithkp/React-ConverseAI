@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a clone of the popular conversational AI platform, ConverseAI, built using React and the OpenAI API. It provides a user-friendly interface for interacting with OpenAI's powerful AI models, allowing users to ask questions and receive informative and comprehensive responses.
+This project is a clone of the popular conversational AI platform, ChatGPT, built using React and the OpenAI API. It provides a user-friendly interface for interacting with OpenAI's powerful AI models, allowing users to ask questions and receive informative and comprehensive responses.
 
 ## Features
 
