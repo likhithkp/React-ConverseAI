@@ -8,7 +8,7 @@ This project is a clone of the popular conversational AI platform, ConverseAI, b
 
 ## Features
 
-- No Account Required: Unlike the original ConverseAI, our clone eliminates the need to create an account, making it more accessible and convenient for users.
+- No Account Required: ConverseAI eliminates the need to create an account, making it more accessible and convenient for users.
 - Direct Search Functionality: Users can directly enter their queries without logging in or navigating through menus.
 - AI-Powered Responses: The ConverseAI clone utilizes OpenAI's AI models to generate insightful and engaging responses to user queries.
 
