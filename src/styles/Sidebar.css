@@ -1,0 +1,79 @@
+.sideBar{
+    flex: 3;
+    border-right: 1px solid rgb(100, 100, 100);
+}
+
+.top{
+    padding: 2.5rem;
+    border-bottom: 1px solid rgb(100, 100, 100);
+    height: 70%;
+}
+
+.brand{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    padding: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+img{
+    height: 4rem;
+    margin-right: 1rem;
+}
+
+.newChatBtn img{
+    height: 2rem;
+    padding-right: 1rem;
+}
+
+.newChatBtn{
+    background:  #5A4BFF;
+    border: none;
+    color: white;
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    width: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+    border-radius: 0.5rem;
+}
+
+.query{
+    display: flex;
+    background: transparent;
+    color: rgb(222, 222, 222, 1);
+    align-items: center;
+    padding: 1.5rem;
+    width: 25rem;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(98, 98, 98, 1);
+}
+
+.query img{
+    margin-right: 2rem;
+    object-fit: cover;
+    height: 1.75rem;
+}
+
+.bottom{
+    padding: 2rem;
+    margin-left: 0.7rem;
+}
+
+.listItem{
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+.listItem img{
+    height: 2rem;
+    margin: 1rem;
+    padding-right: 1rem;
+
+}
