@@ -69,11 +69,19 @@ img{
     display: flex;
     align-items: center;
     font-size: 1.3rem;
+    margin-bottom: 0.2rem;
 }
 
 .listItem img{
     height: 2rem;
     margin: 1rem;
     padding-right: 1rem;
+}
 
+.listItem:nth-child(1)>.listItemImg{
+    margin-right: 0.5rem;
+}
+
+.listItem:nth-child(3)>.listItemImg{
+    margin-right: 0.5rem;
 }
