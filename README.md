@@ -1,6 +1,6 @@
 # ConverseAI Clone in React with OpenAI API
 
-![converseai](https://github.com/likhithkp/React-ConverseAI/assets/88890448/e9935403-d7b0-4592-93ef-e9c64a39aec6)
+![converseai](https://github.com/likhithkp/React-ConverseAI/assets/88890448/76364558-f9bf-4b30-b5a0-322815221015)
 
 ## Overview
 
