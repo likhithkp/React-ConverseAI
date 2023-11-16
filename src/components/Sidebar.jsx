@@ -8,6 +8,7 @@ import saved from "../assets/bookmark.svg"
 import upgrade from "../assets/rocket.svg"
 
 const Sidebar = () => {
+
   return (
     <div className='sideBar'>
         <div className="top">
@@ -15,16 +16,16 @@ const Sidebar = () => {
                 <img src={Logo} alt="logo"/>
                 <span className="brandName">ConverseAI</span>
             </div>
-            <button className='newChatBtn'>
+            <button onClick={() => window.location.reload()} className='newChatBtn'>
                 <img src={Add} alt="new chat" />
                 New Chat
             </button>
             <div className="inbuiltQuery">
-                <button className="query">
+                <button className="query" value={"What is programming ?"}>
                     <img src={msgIcon} alt="First query" />
                     What is programming ?
                 </button>
-                <button className="query">
+                <button className="query" value={"How to use an API ?"}>
                     <img src={msgIcon} alt="First query" />
                     How to use an API ?
                 </button>

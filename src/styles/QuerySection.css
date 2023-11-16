@@ -1,3 +1,96 @@
 .main{
+    min-height: calc(100vh - 14rem);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 6rem 10rem;
     flex: 9;
+    margin-bottom: 0;
+}
+
+.chats{
+    overflow: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    width: 100%;
+    max-width: 70rem;
+    height: calc(100vh - 17rem);
+    text-align: justify;
+}
+
+.chats::-webkit-scrollbar {
+    width: 12px;
+}
+
+.chats::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+/* Show the scrollbar thumb on hover */
+.chats:hover::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+}
+
+.chat{
+    margin: 1rem;
+    padding: 2rem 3rem;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: flex-start;
+}
+
+.chatImg{
+    object-fit: cover;
+    width: 3.5rem;
+    margin-right: 2rem;
+    border-radius: 0.5rem;
+}
+.bot{
+    background: rgba(28, 30, 58, 1);
+    width: fit-content;
+    border-radius: 0.5rem;
+}
+
+.resultText{
+    line-height: 2.4rem;
+    color: rgba(222, 222, 222, 1);
+}
+
+.footer{
+    margin-top: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    padding: 0.5rem;
+    background: rgba(28, 30, 58, 1);
+    display: flex;
+    align-items: center ;
+    border-radius: 0.5rem;
+    width: 68rem;
+}
+
+.input input{
+    width: calc(100% - 3rem);
+    outline: none;
+    padding: 1.25rem;
+    color: white;
+}
+
+#sendBtn{
+    height: 20px;
+    background: transparent;
+}
+
+.input input, .send{
+    background: transparent;
+    border: none;
+}
+
+.footer p{
+    margin: 2rem 0;
 }
