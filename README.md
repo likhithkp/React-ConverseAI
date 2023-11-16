@@ -1,6 +1,6 @@
 # ConverseAI Clone in React with OpenAI API
 
-![Home](https://github.com/likhithkp/React-Vite-Google-Search-Clone/assets/88890448/67fe9217-3c0b-45a8-a6b1-56b9795289ab.png)
+![converseai](https://github.com/likhithkp/React-ConverseAI/assets/88890448/e9935403-d7b0-4592-93ef-e9c64a39aec6)
 
 ## Overview
 
