@@ -22,7 +22,7 @@ This project is a clone of the popular conversational AI platform, ChatGPT, buil
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/likhithkp/React-Vite-Google-Search-Clone.git
+   git clone https://github.com/likhithkp/React-ConverseAI.git
    ```
 
 2. **Navigate to the Project Folder**
