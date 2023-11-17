@@ -56,7 +56,6 @@ This project is a clone of the popular conversational AI platform, ChatGPT, buil
   - `index.css`: Main application CSS component.
   - `openai.jsx`: Program to fetch from OpenAI api.
 - `package.json`: Project configuration and dependencies.
-- `vite.config.js`: Vite configuration.
 
 ## Contributing
 
