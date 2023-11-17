@@ -1,9 +1,9 @@
 import { OpenAI } from "openai";
 
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: process.env.REACT_APP_OPEN_AI_API_KEY,
   dangerouslyAllowBrowser: true,
-});
+  });
 
 export const fetchData = async (message) => {
   try {
