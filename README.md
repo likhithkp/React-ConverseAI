@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5ab451f-dd89-423b-9ae2-bd046190d5c2/deploy-status)](https://app.netlify.com/sites/converse-ai/deploys)
 # ConverseAI in React with OpenAI API
 
 ![converseai](https://github.com/likhithkp/React-ConverseAI/assets/88890448/76364558-f9bf-4b30-b5a0-322815221015)
